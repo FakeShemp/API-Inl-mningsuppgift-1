@@ -30,12 +30,14 @@
 > På vilka tre sätt kan man skicka in parametrar i en HTTP-request? Ge exempel med curl.
 
 #### Query strings
-`curl https://examp.le/user?id=secret`
+`curl http://examp.le/user?id=secret`
 
 #### Fragment identifier
-`curl https://examp.le/user#secret`
+`curl http://examp.le/user#secret`
+(Kan hämtas via `location.hash`)
 
-#### 
+#### Header parameter
+`curl --header "HeaderID: secret" http://examp.le/user`
 
 # Feedback
 Kursen har över lag varit väldigt bra tycker jag. Jag inser att jag kanske har lite mer erfarenhet inom programmering än andra i klassen, men takten har varit bra tycker jag ändå. Det har inte varit för slött för mig, men jag tycker andra verkar hinna med också.

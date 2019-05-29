@@ -11,7 +11,7 @@
 - *Path*:en blir `kultur-noje`. Det är den delen av sidan vi vill in på.
 - URI:n är `http://www.smp.se/kultur-noje/`, som beskriver hur och vart vi vill surfa
 - *Response code*, här `200`, visar att allt gick okej
-- *Body*:n som skickas in är troligtvis tom vid en `GET`. Den som skickas tillbaka vid `200` är HTML-datan som gör upp sidan och kan renderas ut.
+- *Body*:n som skickas in är troligtvis tom vid en `GET`. Den som skickas tillbaka vid `200` är HTML-datan som skapar sidan och kan renderas ut.
 ---
 > Beskriv HTTP-protokollets vanligaste metoder och vad de gör.
 - `GET` hämtar ett objekt från servern

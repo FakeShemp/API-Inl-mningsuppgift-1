@@ -38,3 +38,8 @@
 #### 
 
 # Feedback
+Kursen har över lag varit väldigt bra tycker jag. Jag inser att jag kanske har lite mer erfarenhet inom programmering än andra i klassen, men takten har varit bra tycker jag ändå. Det har inte varit för slött för mig, men jag tycker andra verkar hinna med också.
+
+Jag gillar slides:en, de är lätta att förstå även om man missat en lektion. Det är lagom med föreläsningar också. Jag tror många behöver mer ren tid med att sitta och koda.
+
+Något jag tror behöver tas upp dock är hur man "debuggar" Javascript. Jag märker hur det kan vara svårt för många att förstå hur man läser felkoder. Oftast är de deskriptiva, men det blir lätt att fokusera på *att* det är ett fel istället på hur man löser det.
